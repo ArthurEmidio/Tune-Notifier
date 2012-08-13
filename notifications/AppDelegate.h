@@ -1,9 +1,8 @@
 //
 //  AppDelegate.h
-//  notifications
+//  Tune Notifier
 //
-//  Created by Arthur on 08/08/12.
-//  Copyright (c) 2012 Arthur. All rights reserved.
+//  Created by Arthur Emidio - arthur.500@gmail.com
 //
 
 #import <Cocoa/Cocoa.h>
