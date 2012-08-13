@@ -3,7 +3,7 @@
 //  Tune Notifier
 //
 //  Created by Arthur Emidio - arthur.500@gmail.com
-//
+///
 
 #import <Cocoa/Cocoa.h>
 #import <ScriptingBridge/ScriptingBridge.h>
