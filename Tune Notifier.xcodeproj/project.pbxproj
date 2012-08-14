@@ -13,7 +13,7 @@
 		8E11394E15D32043000F7D17 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E11394D15D32043000F7D17 /* AppDelegate.m */; };
 		8E11395115D32043000F7D17 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8E11394F15D32043000F7D17 /* MainMenu.xib */; };
 		8E11395815D33830000F7D17 /* ScriptingBridge.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8E11395715D33830000F7D17 /* ScriptingBridge.framework */; };
-		8E11396015D46333000F7D17 /* iTunes.icns in Resources */ = {isa = PBXBuildFile; fileRef = 8E11395F15D46333000F7D17 /* iTunes.icns */; };
+		8E11396015D46333000F7D17 /* Icon.icns in Resources */ = {isa = PBXBuildFile; fileRef = 8E11395F15D46333000F7D17 /* Icon.icns */; };
 		8E335CFC15D49F310052DC1B /* Notifier.m in Sources */ = {isa = PBXBuildFile; fileRef = 8E335CFB15D49F310052DC1B /* Notifier.m */; };
 /* End PBXBuildFile section */
 
@@ -32,7 +32,7 @@
 		8E11395015D32043000F7D17 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		8E11395715D33830000F7D17 /* ScriptingBridge.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = ScriptingBridge.framework; path = System/Library/Frameworks/ScriptingBridge.framework; sourceTree = SDKROOT; };
 		8E11395C15D33B0F000F7D17 /* iTunes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = iTunes.h; path = ../iTunes.h; sourceTree = "<group>"; };
-		8E11395F15D46333000F7D17 /* iTunes.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = iTunes.icns; sourceTree = "<group>"; };
+		8E11395F15D46333000F7D17 /* Icon.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = Icon.icns; sourceTree = "<group>"; };
 		8E335CFA15D49F310052DC1B /* Notifier.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Notifier.h; sourceTree = "<group>"; };
 		8E335CFB15D49F310052DC1B /* Notifier.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Notifier.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -96,7 +96,7 @@
 				8E335CFA15D49F310052DC1B /* Notifier.h */,
 				8E335CFB15D49F310052DC1B /* Notifier.m */,
 				8E11394F15D32043000F7D17 /* MainMenu.xib */,
-				8E11395F15D46333000F7D17 /* iTunes.icns */,
+				8E11395F15D46333000F7D17 /* Icon.icns */,
 				8E11394115D32042000F7D17 /* Supporting Files */,
 			);
 			path = notifications;
@@ -166,7 +166,7 @@
 			files = (
 				8E11394515D32042000F7D17 /* InfoPlist.strings in Resources */,
 				8E11395115D32043000F7D17 /* MainMenu.xib in Resources */,
-				8E11396015D46333000F7D17 /* iTunes.icns in Resources */,
+				8E11396015D46333000F7D17 /* Icon.icns in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

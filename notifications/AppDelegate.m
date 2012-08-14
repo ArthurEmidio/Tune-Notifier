@@ -2,7 +2,8 @@
 //  AppDelegate.m
 //  Tune Notifier
 //
-//  Created by Arthur Emidio - arthur.500@gmail.com
+//  Created by Arthur Emidio on 13/08/12.
+//  Copyright 2012 Arthur Emidio. All rights reserved.
 //
 
 #import "AppDelegate.h"
@@ -54,11 +55,11 @@
     NSMenuItem *item = [[NSMenuItem alloc] init];
         
     if([type isEqualToString:@"Play"]) {
-        [item setTitle:@"Play"];
+        [item setTitle:type];
         [item setAction:@selector(playButtonPressed)];
         [item setKeyEquivalent:@""];
-    } else {
-        [item setTitle:@"Pause"];
+    } else if([type isEqualToString:@"Pause"]) {
+        [item setTitle:type];
         [item setAction:@selector(pauseButtonPressed)];
         [item setKeyEquivalent:@""];
     }

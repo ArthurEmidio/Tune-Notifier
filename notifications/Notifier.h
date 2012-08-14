@@ -2,7 +2,8 @@
 //  Notifier.h
 //  Tune Notifier
 //
-//  Created by Arthur Emidio - arthur.500@gmail.com
+//  Created by Arthur Emidio on 13/08/12.
+//  Copyright 2012 Arthur Emidio. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
