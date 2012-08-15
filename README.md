@@ -3,7 +3,6 @@ Tune Notifier
 
 ## What is it?
 Notify the user what song iTunes just started playing, using the Notifications feature on OS X Mountain Lion.
-[An example of a notification](http://i1052.photobucket.com/albums/s446/ArthurEmidio/1d556f9c.png).
 
 ## Can I try it first without having to compile it?
 Sure, [here it is](https://github.com/ArthurEmidio/Tune-Notifier/blob/master/docs/Tune%20Notifier.zip?raw=true) a .zip that includes the app. You can also have access to this file in the [docs folder](https://github.com/ArthurEmidio/Tune-Notifier/tree/master/docs).
@@ -12,7 +11,7 @@ Sure, [here it is](https://github.com/ArthurEmidio/Tune-Notifier/blob/master/doc
 I believe that by making the code available to other developers, Tune Notifier can get even better (by performance enhancements, great new features, and etc.).
 So, if you have anything to collaborate, feel free to do it!
 
-## How does it communicate with iTunes?
+## How does the app communicate with iTunes?
 Take a look at [Scripting Bridge](https://developer.apple.com/library/mac/#documentation/Cocoa/Conceptual/ScriptingBridgeConcepts/Introduction/Introduction.html) on Apple's documentation.
 
 ## How do I contact you?
