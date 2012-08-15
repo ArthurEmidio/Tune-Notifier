@@ -94,8 +94,8 @@
 				8E11394D15D32043000F7D17 /* AppDelegate.m */,
 				8E335CFA15D49F310052DC1B /* Notifier.h */,
 				8E335CFB15D49F310052DC1B /* Notifier.m */,
-				8E11394F15D32043000F7D17 /* MainMenu.xib */,
 				8E11395C15D33B0F000F7D17 /* iTunes.h */,
+				8E11394F15D32043000F7D17 /* MainMenu.xib */,
 				8E11394115D32042000F7D17 /* Supporting Files */,
 			);
 			path = notifications;

@@ -92,7 +92,7 @@
 				<nil key="NSViewClass"/>
 				<nil key="NSUserInterfaceItemIdentifier"/>
 				<object class="NSView" key="NSWindowView" id="1059108536">
-					<nil key="NSNextResponder"/>
+					<reference key="NSNextResponder"/>
 					<int key="NSvFlags">256</int>
 					<array class="NSMutableArray" key="NSSubviews">
 						<object class="NSTextField" id="979422936">
@@ -100,6 +100,7 @@
 							<int key="NSvFlags">268</int>
 							<string key="NSFrame">{{17, 118}, {397, 51}}</string>
 							<reference key="NSSuperview" ref="1059108536"/>
+							<reference key="NSWindow"/>
 							<reference key="NSNextKeyView" ref="124375220"/>
 							<string key="NSReuseIdentifierKey">_NS:9</string>
 							<string key="NSAntiCompressionPriority">{250, 750}</string>
@@ -142,6 +143,7 @@
 							<int key="NSvFlags">268</int>
 							<string key="NSFrame">{{17, 64}, {397, 34}}</string>
 							<reference key="NSSuperview" ref="1059108536"/>
+							<reference key="NSWindow"/>
 							<reference key="NSNextKeyView" ref="452953717"/>
 							<string key="NSReuseIdentifierKey">_NS:9</string>
 							<string key="NSAntiCompressionPriority">{250, 750}</string>
@@ -165,6 +167,7 @@
 							<int key="NSvFlags">268</int>
 							<string key="NSFrame">{{256, 62}, {121, 17}}</string>
 							<reference key="NSSuperview" ref="1059108536"/>
+							<reference key="NSWindow"/>
 							<string key="NSReuseIdentifierKey">_NS:9</string>
 							<bool key="NSEnabled">YES</bool>
 							<object class="NSButtonCell" key="NSCell" id="206532623">
@@ -192,6 +195,7 @@
 							<int key="NSvFlags">268</int>
 							<string key="NSFrame">{{180, 18}, {72, 25}}</string>
 							<reference key="NSSuperview" ref="1059108536"/>
+							<reference key="NSWindow"/>
 							<string key="NSReuseIdentifierKey">_NS:22</string>
 							<bool key="NSEnabled">YES</bool>
 							<object class="NSButtonCell" key="NSCell" id="967653417">
@@ -216,6 +220,8 @@
 						</object>
 					</array>
 					<string key="NSFrameSize">{431, 189}</string>
+					<reference key="NSSuperview"/>
+					<reference key="NSWindow"/>
 					<reference key="NSNextKeyView" ref="979422936"/>
 					<string key="NSReuseIdentifierKey">_NS:20</string>
 				</object>
