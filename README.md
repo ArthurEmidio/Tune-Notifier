@@ -3,6 +3,7 @@ Tune Notifier
 
 ## What is it?
 Notify the user what song iTunes just started playing, using the Notifications feature on OS X Mountain Lion.
+[An example of a notification](http://i1052.photobucket.com/albums/s446/ArthurEmidio/1d556f9c.png).
 
 ## Why open source it?
 I believe that by making the code available to other developers, Tune Notifier can get even better (by performance enhancements, great new features, and etc.).
